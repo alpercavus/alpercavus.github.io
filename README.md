@@ -1,6 +1,6 @@
-# Personal Webpage of Guray Ozgur
+# Personal Webpage of Alper CAVUS
 
-Hi, I'm Guray! Welcome to my personal webpage, where I share my passion for Machine Learning, Artificial Intelligence, Signal Processing, and Robotics. I'm currently an M.Sc. student in Machine Learning at the Eberhard Karls University of Tübingen, where I am diving deep into the exciting world of AI and ML. My goal is to become a leading researcher and educator in these fields and make a real impact on the world.
+Hi, I'm Alper! Welcome to my personal webpage, where I share my passion for Machine Learning, Artificial Intelligence, Signal Processing, and Robotics. I'm currently an M.Sc. student in Machine Learning at the Eberhard Karls University of Tübingen, where I am diving deep into the exciting world of AI and ML. My goal is to become a leading researcher and educator in these fields and make a real impact on the world.
 
 On this website, you'll find a detailed CV that gives an insight into my professional experience and qualifications, as well as a collection of cheat sheets and tutorials that I've created to help others learn about the latest and greatest in AI and ML. I also have a blog where I share my thoughts and musings on the industry, as well as a portfolio of my projects in the field.
 
